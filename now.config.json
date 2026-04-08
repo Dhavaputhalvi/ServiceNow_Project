@@ -1,0 +1,6 @@
+{
+  "scope": "x_1902321_employee",
+  "scopeId": "b0aaed0347000b105550bb30116d438c",
+  "name": "Employee Dat",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
